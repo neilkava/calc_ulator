@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget
   {
     return MaterialApp(
       title: "Calculator App",
-      theme: ThemeData.dark(),
+      //theme: ThemeData.dark(),
       home: HomePage(),
     );
   }
